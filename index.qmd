@@ -1,10 +1,12 @@
 ---
-title: "Summer is Gae"
+title: "Clajerson Gimena"
 ---
 
-This is a Quarto website.
+Hi! 👋 My name is Clajerson (Cj) Gimena and welcome to my personal website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Introduction
+
+I am a 4th year Data Science and Statistics major at the University of California, Los Angeles.
 
 ```{r}
 1 + 1
