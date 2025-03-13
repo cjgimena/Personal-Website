@@ -4,7 +4,7 @@ title: "Clajerson Gimena"
 
 Hi! 👋 My name is Clajerson (Cj) Gimena and welcome to my personal website!
 
-### Introduction
+# Introduction
 
 I am a 4th year Data Science and Statistics major at the University of California, Los Angeles.
 
@@ -15,3 +15,7 @@ I am a 4th year Data Science and Statistics major at the University of Californi
 ```{r}
 runif(10)
 ```
+
+# Recent Projects
+
+# Hobbies and Interests
