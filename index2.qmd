@@ -1,0 +1,28 @@
+---
+about:
+  template: solana
+  image: 0ju96o2gs4g1hojw.jpg
+  # links:
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com/cjgimena
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://x.com/clajerson
+  #   - icon: instagram
+  #     text: Instagram
+  #     href: https://www.instagram.com/cjgimena/
+  #   - icon: globe
+  #     text: Email
+  #     url: "mailto:cjgimena@g.ucla.edu"
+---
+
+Clajerson Gimena
+
+![Elephant](roland_garros.jpg)
+
+
+
+---
+title: "indextoo"
+---

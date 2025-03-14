@@ -2,24 +2,33 @@ project:
   type: website
 
 website:
-  title: "Clajerson Gimena"
+  # page-footer:
+  #   right: "@cjgimena"
   navbar:
-    # left:
-    right:      
-      # - href: index.qmd
-      #   text: Landing Page
-      - href: projects.qmd
-        text: Projects
+    left:
+      - href: index.qmd
+        text: Home
+      # - href: projects.qmd
+      #   text: Projects
       - href: about.qmd
         text: About
       
 format:
   html:
-    theme:
-      - lux
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 2
+    toc-title: " "
+    toc-location: left
+    # other-links:
+    # - text: Github
+    #   icon: github
+    #   href: https://github.com/cjgimena
+    
+
 
 editor: visual
 
+execute: 
+  freeze: auto

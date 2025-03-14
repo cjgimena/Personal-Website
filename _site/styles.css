@@ -1,3 +1,66 @@
 /* css styles */
 
-background-color: #ADD8E6;
+body {
+    background-color:  #ede0d4 !important;  /* Set page background */
+    color: #7f5539 !important;  /* Set text color */
+}
+
+.navbar {
+    background-color: #ede0d4 !important;
+}
+
+.navbar a {
+    color:  #7f5539 !important;
+}
+
+
+/* You can also customize font size, weight, etc. */
+.custom-font-1 {
+    color: #7f5539;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+.custom-font-2 {
+    color: #7f5539;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;  /* Centers the text inside */
+    width: adjust; /* Fixed width (adjust as needed) */
+    height: auto; /* Adjust height dynamically */
+    text-align: left;
+}
+
+.custom-font-3 {
+    color: #7f5539;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;  /* Centers the text inside */
+    width: 440px; /* Fixed width (adjust as needed) */
+    height: auto; /* Adjust height dynamically */
+    text-align: left;
+}
+
+.custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:  #7f5539; /* Blue */
+    color: #ede0d4;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.custom-button:hover {
+    background-color:#9c6644; /* Darker blue */
+    color: white;
+
+    
+}
+
+
+
+

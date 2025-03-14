@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index2.html",
+    "href": "index2.html",
+    "title": "indextoo",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Clajerson Gimena\n\n\n\nElephant"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Clajerson Gimena",
+    "title": "Projects",
     "section": "",
-    "text": "Hi! 👋 My name is Clajerson (Cj) Gimena and welcome to my personal website!\n\nIntroduction\nI am a 4th year Data Science and Statistics major at the University of California, Los Angeles.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.003305539 0.295580688 0.657183515 0.194677936 0.291313586 0.959152439\n [7] 0.533354519 0.336024194 0.601886790 0.421546998\n\n\n\n\nRecent Projects\n\n\nHobbies and Interests"
+    "text": "Clajerson Gimena\n\n\nHello! 👋 I’m Clajerson and welcome to my personal website!\nI am a fourth-year undergraduate student at UCLA pursing a Bachelor’s Science Degree in Data Science & Statistics.\n\nView Resume\n\n\n\n\n\n\n\n\n\n\nProjects"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\n\n\nHi! I’m Clajerson (CJ) Gimena, a fourth-year Statistics & Data Science student at UCLA with a passion for applying data-driven insights to tennis analytics and real-world challenges.\nI’ve worked as a performance analyst at the US Open Tennis Championships and contributed to the UCLA Tennis Consulting Club, supporting the UCLA D1 Men’s and Women’s Teams. My self-taught tennis journey, combined with statistical expertise, helps me bridge data and strategy in sports.\nOutside of data and tennis, I enjoy cooking, going to the gym, hiking, and exploring new places.\nsLet’s connect! 🚀🎾\n\nView Resume Github\n\n\nEducation\n\nUniversity of California, Los Angeles | Los Angeles\nBS in Data Science and Statistics | Sept 2023 - June 2025\nBakersfield College | Bakersfield, CA\nAS in Computer Science | Aug 2021 - June 2023\n\n\n\n\nExperience\n\nUSTA | Performance Data Analyst | Aug 2024 - Sept 2025"
   }
 ]

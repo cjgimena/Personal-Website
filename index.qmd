@@ -1,21 +1,39 @@
 ---
-title: "Clajerson Gimena"
+about:
+  template: solana
+  image: uv06hjn3sjcihh4d.jpg
+toc: true
 ---
 
-Hi! 👋 My name is Clajerson (Cj) Gimena and welcome to my personal website!
+<br>
 
-# Introduction
+<br>
 
-I am a 4th year Data Science and Statistics major at the University of California, Los Angeles.
+::: custom-font-1
+Clajerson Gimena
+:::
 
-```{r}
-1 + 1
-```
+::: custom-font-3
+Hello! 👋 I'm Clajerson and welcome to my personal website!\
+I am a fourth-year undergraduate student at UCLA pursing a Bachelor's Science Degree in Data Science & Statistics.
+:::
 
-```{r}
-runif(10)
-```
+[View Resume](resume-7v2.pdf){.custom-button .custom-button:hover}\
 
-# Recent Projects
+<br>
 
-# Hobbies and Interests
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+# Projects {.custom-font-1}

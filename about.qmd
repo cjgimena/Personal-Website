@@ -1,9 +1,47 @@
 ---
-title: "About"
+about:
+  template: solana
 ---
 
-About this site
+::: custom-font-1
+# About
+:::
 
-```{r}
-1 + 1
-```
+::: custom-font-2
+Hi! I'm Clajerson (CJ) Gimena, a fourth-year Statistics & Data Science student at UCLA with a passion for applying data-driven insights to tennis analytics and real-world challenges.
+
+I’ve worked as a performance analyst at the US Open Tennis Championships and contributed to the UCLA Tennis Consulting Club, supporting the UCLA D1 Men’s and Women’s Teams. My self-taught tennis journey, combined with statistical expertise, helps me bridge data and strategy in sports.
+
+Outside of data and tennis, I enjoy cooking, going to the gym, hiking, and exploring new places.\
+sLet’s connect! 🚀🎾
+:::
+
+[View Resume](resume-7v2.pdf){.custom-button .custom-button:hover} [Github](https://github.com/cjgimena){.custom-button .custom-button:hover}
+
+<br>
+
+# Education {.custom-font-1}
+
+::: custom-font-2
+University of California, Los Angeles \| Los Angeles\
+BS in Data Science and Statistics \| Sept 2023 - June 2025
+
+Bakersfield College \| Bakersfield, CA\
+AS in Computer Science \| Aug 2021 - June 2023
+:::
+
+<br>
+
+# Experience {.custom-font-1}
+
+::: custom-font-2
+USTA \| Performance Data Analyst \| Aug 2024 - Sept 2025
+:::
+
+<br>
+
+<br>
+
+<br>
+
+<br>\
