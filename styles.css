@@ -5,6 +5,15 @@ body {
     color: #7f5539 !important;  /* Set text color */
 }
 
+/* Style the about page image */
+.about-photo image {
+    width: 400px;  /* Adjust width as needed */
+    height: auto;  /* Keeps aspect ratio */
+    border-radius: 500px;  /* Rounds the corners */
+    display: block;
+    margin: 0 auto;  /* Centers the image */
+}
+
 .navbar {
     background-color: #ede0d4 !important;
 }
@@ -13,11 +22,15 @@ body {
     color:  #7f5539 !important;
 }
 
+.navbar a:hover {
+    color:  #9c6644 !important;
+}
+
 
 /* You can also customize font size, weight, etc. */
 .custom-font-1 {
     color: #7f5539;
-    font-size: 32px;
+    font-size: 48px;
     font-weight: bold;
     text-align: left;
     
@@ -57,8 +70,6 @@ body {
 .custom-button:hover {
     background-color:#9c6644; /* Darker blue */
     color: white;
-
-    
 }
 
 

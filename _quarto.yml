@@ -2,14 +2,10 @@ project:
   type: website
 
 website:
-  # page-footer:
-  #   right: "@cjgimena"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      # - href: projects.qmd
-      #   text: Projects
       - href: about.qmd
         text: About
       
@@ -20,13 +16,7 @@ format:
     toc: true
     toc-depth: 2
     toc-title: " "
-    toc-location: left
-    # other-links:
-    # - text: Github
-    #   icon: github
-    #   href: https://github.com/cjgimena
-    
-
+    toc-location: right
 
 editor: visual
 

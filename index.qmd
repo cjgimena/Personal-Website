@@ -36,4 +36,58 @@ I am a fourth-year undergraduate student at UCLA pursing a Bachelor's Science De
 
 <br>
 
-# Projects {.custom-font-1}
+# Recent Projects {.custom-font-1}
+
+### UCLA Player Serve Analysis
+
+::: custom-font-2
+Consulting Team Lead \| March 2025
+
+-   Collaborated with the **Associate Head Coach** to analyze a player’s serve mechanics and performance.
+
+-   Processed and cleaned data using **Pandas**, utilized **FFmpeg** for video trimming, and structured insights using **JSON**, **HTML**, and **D3.js** for data visualization.
+
+-   Provided **data-driven recommendations** to refine the player’s serving technique.
+:::
+
+[Sample Slides](deliverable.pdf){.custom-button .custom-button:hover}
+
+<br>
+
+### Web Scraping Professional Tennis Data
+
+::: custom-font-2
+*Data Analyst* \| October 2025
+:::
+
+::: custom-font-2
+-   Developed automated web scraping pipelines using **requests** and **pandas** to compile professional ATP player datasets.
+
+-   Leveraged scraped data to enhance the [Match-Viewer](https://match-viewing-dashboard.web.app) website, providing comprehensive player statistics and insights.
+:::
+
+[Novak Dataset](NovakDjokovic_player_profile.pdf){.custom-button .custom-button:hover}
+
+<br>
+
+### Datafest Best Visualization Award 2024
+
+::: custom-font-2
+*Best Visualization Award* \| April 2024
+
+-   Received Best Visualization Award among 80+ teams; presented findings to over 400 people and panel of 25+ judges
+
+-   Utilized R/Python to analyze compelling datasets, encompassing over 2,000,000 rows across 6+ datasets for insights
+
+-   Collaborated with team to craft strategic call-to-action suggestions for company representatives in 48-hour timeframe
+:::
+
+[Visualizations](EOC_by_chapter.png){.custom-button .custom-button:hover}
+
+<br>
+
+<br>
+
+<br>
+
+<br>

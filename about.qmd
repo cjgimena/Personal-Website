@@ -3,9 +3,7 @@ about:
   template: solana
 ---
 
-::: custom-font-1
-# About
-:::
+# About {.custom-font-1}
 
 ::: custom-font-2
 Hi! I'm Clajerson (CJ) Gimena, a fourth-year Statistics & Data Science student at UCLA with a passion for applying data-driven insights to tennis analytics and real-world challenges.
@@ -13,10 +11,10 @@ Hi! I'm Clajerson (CJ) Gimena, a fourth-year Statistics & Data Science student a
 I’ve worked as a performance analyst at the US Open Tennis Championships and contributed to the UCLA Tennis Consulting Club, supporting the UCLA D1 Men’s and Women’s Teams. My self-taught tennis journey, combined with statistical expertise, helps me bridge data and strategy in sports.
 
 Outside of data and tennis, I enjoy cooking, going to the gym, hiking, and exploring new places.\
-sLet’s connect! 🚀🎾
+Let’s connect! 🚀🎾
 :::
 
-[View Resume](resume-7v2.pdf){.custom-button .custom-button:hover} [Github](https://github.com/cjgimena){.custom-button .custom-button:hover}
+[View Resume](resume-7v2.pdf){.custom-button .custom-button:hover} [Github](https://github.com/cjgimena){.custom-button .custom-button:hover} [LinkedIn](https://www.linkedin.com/in/clajerson-gimena-b7169725b/){.custom-button .custom-button:hover}
 
 <br>
 

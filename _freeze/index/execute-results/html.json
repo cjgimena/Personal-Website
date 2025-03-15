@@ -1,8 +1,8 @@
 {
-  "hash": "7fc57dfed3bb00da1b92c61e77bc43ce",
+  "hash": "2796aa8192fd555f1b37acf658094473",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Clajerson Gimena\"\nabout:\n  template: jolla\n  image: 0ju96o2gs4g1hojw.jpg\n  links:\n    - icon: twitter\n      text: twitter\n      href: https://x.com/clajerson\n    - icon: github\n      text: Github\n      href: https://github.com/cjgimena\n    - icon: instagram\n      text: Instagram\n      href: https://www.instagram.com/cjgimena/\n---\n\n\n\nHi! 👋 My name is Clajerson (Cj) Gimena and welcome to my personal website!\n\n# Introduction\n\nI am a 4th year Data Science and Statistics major at the University of California, Los Angeles.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.89218890 0.24697689 0.05086339 0.56612433 0.43006219 0.11093399\n [7] 0.93290562 0.67858018 0.87788229 0.50651771\n```\n\n\n:::\n:::\n\n\n\n# Recent Projects\n\n# Hobbies and Interests\n",
+    "markdown": "---\nabout:\n  template: solana\n  # image: uv06hjn3sjcihh4d.jpg\ntoc: true\n---\n\n\n\n\n<br>\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nknitr::include_graphics(\"uv06hjn3sjcihh4d.jpg\")\n```\n\n::: {.cell-output-display}\n![](uv06hjn3sjcihh4d.jpg)\n:::\n:::\n\n\n\n\n<br>\n\n::: custom-font-1\nClajerson Gimena\n:::\n\n::: custom-font-3\nHello! 👋 I'm Clajerson and welcome to my personal website!\\\nI am a fourth-year undergraduate student at UCLA pursing a Bachelor's Science Degree in Data Science & Statistics.\n:::\n\n[View Resume](resume-7v2.pdf){.custom-button .custom-button:hover}\\\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n# Projects {.custom-font-1}\n\n::: custom-font-2\nHello! 👋 I'm Clajerson and welcome to my personal website!\\\nI am a fourth-year undergraduate student at UCLA pursing a Bachelor's Science Degree in Data Science & Statistics.\n:::\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
